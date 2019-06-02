@@ -1,2 +1,2 @@
 # Wochunyi
-手写的mvp框架的项目
+Rxjava2+Dagger2+Retrofit2+Okhttp3
